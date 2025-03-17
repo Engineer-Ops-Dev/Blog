@@ -76,8 +76,7 @@
 
         <h2>Contact</h2>
         <p>Email: your.email@example.com</p>
-        <p>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></p>
-        <p>LinkedIn: <a href="https://linkedin.com/in/yourname" target="_blank">linkedin.com/in/Ramcahran</a></p>
+        <p>GitHub: <a href="https://github.com/ramcharan" target="_blank">github.com/Engineer-Ops-Dev</a></p>
     </div>
 
     <footer>
